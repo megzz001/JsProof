@@ -15,7 +15,6 @@ let NFTs = [];
 // NFT object using the parameters passed to it for its metadata, 
 // and store it in the variable above.
 
-
 function mintNFT (songName, artistName, genreName, releaseDate , description, image) {
 
     let nft_metaData = {
